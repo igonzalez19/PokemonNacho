@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">nombre</string>
+    <string name="raza">raza</string>
+    <string name="fact_file">FACT FILE</string>
+    <string name="nueva_carta">Nueva pokemon</string>
+    <string name="introducir_imagen">Introducir Imagen</string>
+    <string name="nombres">Nombre:</string>
+    <string name="altura">Altura:</string>
+    <string name="peso">Peso:</string>
+    <string name="longuitud">Longuitud:</string>
+    <string name="velocidad">Velocidad:</string>
+    <string name="killer_rating">killer rating:</string>
+    <string name="guardar_carta">Guardar pokemon</string>
+
+    <string name="respNo">No</string>
+    <string name="respSi">Sí</string>
+    <string name="tituloExplicacion">Warning</string>
+    <string name="mensajeExplicacion">Lo necesito</string>
+    <string name="tituloExplicacion2">Lo necesito</string>
+    <string name="mensajeExplicacion2">Lo necesito</string>
+    <string name="tipo">Tipo</string>
+    <string name="habilidad">Habilidad</string>
+    <string name="descripcion">Descripcion</string>
+</resources>
